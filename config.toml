@@ -1,3 +1,3 @@
 [dir]
-drifter_data = "../../data/Hurricane_Idalia_Sep2023/aggregated_data/hurricane_idalia_drifter_data_v2.pickle"
-coamps = "../../data/COAMPS-TC/forecast/idalia_coamps_aggregated_forecast_winds_tau4_08-29_to_08-31.nc"
+drifter_data = "./data/hurricane_idalia_drifter_data_v2.pickle"
+coamps = "./data/idalia_coamps_aggregated_forecast_winds_tau4_08-29_to_08-31.nc"
