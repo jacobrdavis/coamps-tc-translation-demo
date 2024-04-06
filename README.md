@@ -6,6 +6,6 @@ The aggregated COAMPS-TC forecasts occasionally deviate from the best track, ass
     <img src="./figures/idalia_spotter_coamps_error_example_solution.png" width="1000"/>
     <figcaption>Figure 1.  COAMPS-TC track error during Idalia. </figcaption>
 </figure>
-<br>
+<br><br />
 
 Here I demonstrate a possible solution which determines the buoy's position relative to the storm's center on the best track, and then "shifts" the buoy relative to the COAMPS-TC center.
