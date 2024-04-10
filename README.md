@@ -8,4 +8,6 @@ The aggregated COAMPS-TC forecasts occasionally deviate from the best track, ass
 </figure>
 <br><br />
 
-Here I demonstrate a solution which determines the buoy's position relative to the storm's center on the best track, and then "shifts" the buoy relative to the COAMPS-TC center. See the Jupyter notebook: coamps-tc-translation-demo.ipynb
+Here I demonstrate a solution which determines the buoy's position relative to the storm's center on the best track, and then "shifts" the buoy relative to the COAMPS-TC center. 
+
+See the Jupyter notebook `coamps-tc-translation-demo.ipynb`.
